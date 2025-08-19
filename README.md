@@ -229,4 +229,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by Usman Razzaq**
 
-*ResumeIQ Pro - Transforming resume analysis with AI* 
+*Smart Resume Classifier - Transforming resume analysis with AI* 
