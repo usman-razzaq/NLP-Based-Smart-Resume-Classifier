@@ -204,10 +204,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - **Developer**: Usman Razzaq
-- **Email**: usman.razzaq@email.com
-- **GitHub**: [@usmanrazzaq](https://github.com/usmanrazzaq)
+- **Email**: usmanrazzaq114@email.com
+- **GitHub**: [@usmanrazzaq](https://github.com/usman-razzaq)
 - **LinkedIn**: [Usman Razzaq](https://linkedin.com/in/usmanrazzaq)
-- **Twitter**: [@usmanrazzaq](https://twitter.com/usmanrazzaq)
+- **Twitter**: [@usmanrazzaq](https://twitter.com/usmanxrazzaq)
 
 ## 🔄 Version History
 
