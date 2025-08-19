@@ -1,17 +1,14 @@
-# ResumeIQ Pro 🚀
+# Smart Resume Classifier 🚀
 
 **AI-Powered Resume Analysis & Career Recommendations**
 
-*Developed with ❤️ by [Usman Razzaq](https://github.com/usmanrazzaq)*
 
 ## 🌟 Overview
 
-ResumeIQ Pro is an advanced AI-powered resume analysis tool that helps job seekers understand how their skills and experience align with different career domains. Built with cutting-edge machine learning technology, it provides comprehensive insights across 10+ professional categories.
 
 ## ✨ Features
 
 ### 🔍 Smart Classification
-- **Multi-domain Analysis**: Automatically categorize resumes into 10+ professional domains
 - **High Accuracy**: Over 95% classification accuracy using advanced NLP and ML
 - **Real-time Processing**: Get results in seconds, not hours
 
@@ -69,8 +66,6 @@ ResumeIQ Pro is an advanced AI-powered resume analysis tool that helps job seeke
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/usmanrazzaq/resumeiq-pro.git
-   cd resumeiq-pro
    ```
 
 2. **Create a virtual environment**
