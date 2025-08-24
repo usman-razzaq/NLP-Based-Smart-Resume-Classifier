@@ -1340,7 +1340,7 @@ def show_about_page():
     st.markdown('<h1 class="main-header">About Smart Resume Classifier</h1>', unsafe_allow_html=True)
     
     st.markdown("""
-    <div class="card">
+    <p <div class="card">
         <p>Smart Resume Classifier is an advanced AI-powered resume analysis tool that helps job seekers understand how their skills and experience align with different career domains. Built with cutting-edge machine learning technology, it provides comprehensive insights across 10+ professional categories.</p>
         
         <h3>How It Works</h3>
@@ -1354,7 +1354,7 @@ def show_about_page():
         
         <h3>Supported Domains</h3>
         <p>Smart Resume Classifier currently supports analysis across 10 professional domains: Data Science, Design, Web Development, Mobile Development, Software Engineering, Marketing, Sales, Finance, Healthcare, and Education. We're constantly expanding our coverage to include more specialized fields.</p>
-    </div>
+    </div> </p>
     """, unsafe_allow_html=True)
     
     # Developer section
