@@ -1369,8 +1369,7 @@ def show_about_page():
             </div>
             <h3>Usman Razzaq</h3>
             <p style="font-size: 1.2rem; color: #64748B;">Full Stack Developer & AI Enthusiast</p>
-            <p>Passionate about creating innovative solutions that leverage artificial intelligence to solve real-world problems. Specialized in machine learning, web development, and user experience design.</p>
-            <p
+            <p>Passionate about creating innovative solutions that leverage artificial intelligence to solve real-world problems. Specialized in machine learning, web development, and user experience design.
             <div style="margin: 1rem 0;">
                 <strong>Skills:</strong> Python, JavaScript, React, Node.js, Machine Learning, NLP, Streamlit, AWS
             </div>
