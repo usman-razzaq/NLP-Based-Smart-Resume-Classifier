@@ -609,7 +609,7 @@ def main():
 
 def show_home_page():
     st.markdown('<h1 class="main-header">Smart Resume Classifier</h1>', unsafe_allow_html=True)
-    st.markdown('<p class="sub-header">AI-powered resume analysis and career recommendations for 10+ professional domains</p>', unsafe_allow_html=True)
+    st.markdown('<p class="sub-header">AI-powered resume analysis and career recommendations for 40+ professional domains</p>', unsafe_allow_html=True)
     
     # Hero section
     col1, col2 = st.columns([2, 1])
@@ -739,7 +739,7 @@ def show_home_page():
     # CTA
     st.markdown("""
     <div style="text-align: center; margin: 2rem 0;">
-        <a href="#classify-resume" target="_self">
+        <a href="javascript:void(0);" target="_self">
             <button style="background: linear-gradient(135deg, #1E40AF 0%, #3B82F6 100%); color: white; border: none; border-radius: 8px; padding: 1rem 2rem; font-size: 1.2rem; font-weight: 600; cursor: pointer;">
                 Analyze Your Resume Now
             </button>
