@@ -9,6 +9,9 @@ from streamlit_option_menu import option_menu
 from io import StringIO
 import time
 
+# Force light theme
+st._config.set_option("theme.base", "light")
+
 # PDF processing imports
 try:
     import PyPDF2
