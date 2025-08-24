@@ -1340,12 +1340,10 @@ def show_about_page():
     st.markdown('<h1 class="main-header">About Smart Resume Classifier</h1>', unsafe_allow_html=True)
     
     st.markdown("""
-    <p <div class="card">
-        <p>Smart Resume Classifier is an advanced AI-powered resume analysis tool that helps job seekers understand how their skills and experience align with different career domains. Built with cutting-edge machine learning technology, it provides comprehensive insights across 10+ professional categories.</p>
-        
+    <div class="card">
+        <p>Smart Resume Classifier is an advanced AI-powered resume analysis tool that helps job seekers understand how their skills and experience align with different career domains. Built with cutting-edge machine learning technology, it provides comprehensive insights across 40+ professional categories.</p>
         <h3>How It Works</h3>
         <p>Our sophisticated machine learning model was trained on thousands of resumes across diverse professional domains to accurately classify new resumes into specific career categories. Using Natural Language Processing (NLP) and advanced algorithms, we analyze resume content and extract meaningful insights about your career profile.</p>
-        
         <h3>Our Technology</h3>
         <p>We leverage state-of-the-art Natural Language Processing (NLP) and machine learning algorithms to analyze resume content. Our system uses TF-IDF vectorization, advanced classification models, and comprehensive skill mapping to provide accurate career domain classification and personalized recommendations.</p>
         
@@ -1354,7 +1352,7 @@ def show_about_page():
         
         <h3>Supported Domains</h3>
         <p>Smart Resume Classifier currently supports analysis across 10 professional domains: Data Science, Design, Web Development, Mobile Development, Software Engineering, Marketing, Sales, Finance, Healthcare, and Education. We're constantly expanding our coverage to include more specialized fields.</p>
-    </div> </p>
+    </div>
     """, unsafe_allow_html=True)
     
     # Developer section
