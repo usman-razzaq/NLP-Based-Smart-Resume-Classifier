@@ -1476,7 +1476,7 @@ def show_about_page():
     with col1:
         st.markdown("""
         <div style="text-align: center;">
-            <a href="https://github.com/usmanrazzaq" target="_blank" style="text-decoration: none;">
+            <a href="https://github.com/usman-razzaq" target="_blank" style="text-decoration: none;">
                 <div style="padding: 1rem; background-color: #F8FAFC; border-radius: 8px; border: 2px solid #E5E7EB;">
                     <h4>🐙 GitHub</h4>
                     <p>View our code</p>
@@ -1500,7 +1500,7 @@ def show_about_page():
     with col3:
         st.markdown("""
         <div style="text-align: center;">
-            <a href="https://twitter.com/usmanrazzaq" target="_blank" style="text-decoration: none;">
+            <a href="https://twitter.com/usmanxrazzaq" target="_blank" style="text-decoration: none;">
                 <div style="padding: 1rem; background-color: #F8FAFC; border-radius: 8px; border: 2px solid #E5E7EB;">
                     <h4>🐦 Twitter</h4>
                     <p>Follow updates</p>
@@ -1512,7 +1512,7 @@ def show_about_page():
     with col4:
         st.markdown("""
         <div style="text-align: center;">
-            <a href="mailto:usman.razzaq@email.com" style="text-decoration: none;">
+            <a href="mailto:usmanrazzaq114@email.com" style="text-decoration: none;">
                 <div style="padding: 1rem; background-color: #F8FAFC; border-radius: 8px; border: 2px solid #E5E7EB;">
                     <h4>📧 Email</h4>
                     <p>Direct contact</p>
