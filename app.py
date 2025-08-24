@@ -1346,10 +1346,8 @@ def show_about_page():
         <p>Our sophisticated machine learning model was trained on thousands of resumes across diverse professional domains to accurately classify new resumes into specific career categories. Using Natural Language Processing (NLP) and advanced algorithms, we analyze resume content and extract meaningful insights about your career profile.</p>
         <h3>Our Technology</h3>
         <p>We leverage state-of-the-art Natural Language Processing (NLP) and machine learning algorithms to analyze resume content. Our system uses TF-IDF vectorization, advanced classification models, and comprehensive skill mapping to provide accurate career domain classification and personalized recommendations.</p>
-        
         <h3>Privacy Commitment</h3>
         <p>We take your privacy seriously. Your resume data is processed securely in memory and never stored on our servers after analysis is complete. We believe in complete transparency and data protection.</p>
-        
         <h3>Supported Domains</h3>
         <p>Smart Resume Classifier currently supports analysis across 10 professional domains: Data Science, Design, Web Development, Mobile Development, Software Engineering, Marketing, Sales, Finance, Healthcare, and Education. We're constantly expanding our coverage to include more specialized fields.</p>
     </div>
