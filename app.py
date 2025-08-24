@@ -1373,11 +1373,10 @@ def show_about_page():
             <div style="margin: 1rem 0;">
                 <strong>Skills:</strong> Python, JavaScript, React, Node.js, Machine Learning, NLP, Streamlit, AWS
             </div>
-            
             <div style="margin: 1rem 0;">
                 <strong>Interests:</strong> AI/ML, Web Development, Data Science, Open Source, Tech Innovation
             </div> 
-        </div> </p>
+            </p>
         """, unsafe_allow_html=True)
     
     # Technology stack
